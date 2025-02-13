@@ -7,6 +7,12 @@
 //Teste larissa
 
 int main() {
+           ("Brasil (A), EUA(B), SUIÇA(C), JAPÃO(D), MEXICO(E), CHINA(F),INDIA(G), ITALIA(H) ");
+    int populaçao = 
+    float area = 
+    double pontos turisticos =
+    char cod cicade = 
+    char nome[20] =
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
